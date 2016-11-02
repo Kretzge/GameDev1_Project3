@@ -1,0 +1,571 @@
+﻿Log file open, 10/26/16 16:56:59
+LogInit:Display: Running engine for game: Testing
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(464968614) SRandInit(464968614).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.065019
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.10.26-20.56.59:805][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.26-20.56.59:806][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.10.26-20.56.59:828][  0]LogInit: Computer: DESKTOP-M80BUM9
+[2016.10.26-20.56.59:828][  0]LogInit: User: Owner
+[2016.10.26-20.56.59:828][  0]LogInit: CPU Page size=65536, Cores=2
+[2016.10.26-20.56.59:828][  0]LogInit: High frequency timer resolution =2.630635 MHz
+[2016.10.26-20.56.59:828][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx)
+[2016.10.26-20.56.59:828][  0]LogMemory: Platform Memory Stats for Windows
+[2016.10.26-20.56.59:829][  0]LogMemory: Process Physical Memory: 256.05 MB used, 256.05 MB peak
+[2016.10.26-20.56.59:829][  0]LogMemory: Process Virtual Memory: 259.57 MB used, 259.57 MB peak
+[2016.10.26-20.56.59:829][  0]LogMemory: Physical Memory: 4542.88 MB used, 7878.88 MB total
+[2016.10.26-20.56.59:829][  0]LogMemory: Virtual Memory: 621.34 MB used, 134217728.00 MB total
+[2016.10.26-20.56.59:856][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.10.26-20.57.00:703][  0]LogD3D11RHI: D3D11 adapters:
+[2016.10.26-20.57.00:710][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2016.10.26-20.57.00:710][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2016.10.26-20.57.00:711][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.10.26-20.57.00:711][  0]LogD3D11RHI:       0/0/3939 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.10.26-20.57.00:711][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.10.26-20.57.00:715][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.10.26-20.57.00:716][  0]LogD3D11RHI:     GPU DeviceId: 0xa16 (for the marketing name, search the web for "GPU Device Id")
+[2016.10.26-20.57.00:716][  0]LogWindows: EnumDisplayDevices:
+[2016.10.26-20.57.00:716][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2016.10.26-20.57.00:716][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2016.10.26-20.57.00:716][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2016.10.26-20.57.00:716][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2016.10.26-20.57.00:716][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2016.10.26-20.57.00:716][  0]LogD3D11RHI:   Driver Version: 20.19.15.4444 (internal:20.19.15.4444, unified:20.19.15.4444)
+[2016.10.26-20.57.00:716][  0]LogD3D11RHI:      Driver Date: 4-22-2016
+[2016.10.26-20.57.00:716][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2016.10.26-20.57.00:722][  0]LogD3D11RHI: Async texture creation enabled
+[2016.10.26-20.57.00:725][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2016.10.26-20.57.00:726][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Intermediate/Shaders/WorkingDirectory/6988/).
+[2016.10.26-20.57.00:726][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Owner/AppData/Local/Temp/UnrealShaderWorkingDir/49B09248456AA5C3F2E44A9442E14E21/'.
+[2016.10.26-20.57.00:726][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.10.26-20.57.02:003][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.10.26-20.57.02:013][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.10.26-20.57.02:023][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.10.26-20.57.02:031][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.10.26-20.57.02:040][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.10.26-20.57.02:048][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.10.26-20.57.02:054][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.10.26-20.57.02:062][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.10.26-20.57.02:068][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.10.26-20.57.02:077][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.10.26-20.57.02:085][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.10.26-20.57.02:098][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.10.26-20.57.02:098][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.10.26-20.57.02:099][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.10.26-20.57.02:123][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.10.26-20.57.02:133][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.10.26-20.57.02:142][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.10.26-20.57.02:152][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.10.26-20.57.02:159][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.10.26-20.57.02:167][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.10.26-20.57.02:167][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.10.26-20.57.02:247][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.10.26-20.57.02:316][  0]LogDerivedDataCache: Loaded boot cache 0.07s 62MB C:/Users/Owner/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.26-20.57.02:316][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Owner/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.10.26-20.57.02:316][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.10.26-20.57.02:316][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.10.26-20.57.02:316][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.10.26-20.57.02:316][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.10.26-20.57.02:336][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.10.26-20.57.02:348][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.10.26-20.57.02:557][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.26-20.57.02:560][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.10.26-20.57.02:658][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.10.26-20.57.02:658][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.10.26-20.57.02:658][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.10.26-20.57.02:737][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.10.26-20.57.03:138][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: testing, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 4270754977
+[2016.10.26-20.57.03:182][  0]LogAssetRegistry: FAssetRegistry took 0.0218 seconds to start up
+[2016.10.26-20.57.03:241][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.053452 seconds
+[2016.10.26-20.57.03:253][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.10.26-20.57.03:253][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2016.10.26-20.57.03:253][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.10.26-20.57.03:266][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.10.26-20.57.03:603][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.26-20.57.03:603][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.26-20.57.04:537][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.10.26-20.57.04:558][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.10.26-20.57.04:833][  0]SourceControl: Info Source control is disabled
+[2016.10.26-20.57.04:890][  0]SourceControl: Info Source control is disabled
+[2016.10.26-20.57.04:903][  0]SourceControl: Info Source control is disabled
+[2016.10.26-20.57.04:914][  0]SourceControl: Info Source control is disabled
+[2016.10.26-20.57.05:281][  0]LogEngine: Initializing Engine...
+[2016.10.26-20.57.05:282][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.10.26-20.57.05:433][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.10.26-20.57.05:439][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.26-20.57.05:465][  0]LogInit: FAudioDevice initialized.
+[2016.10.26-20.57.05:502][  0]LogDerivedDataCache: Saved boot cache 0.04s 62MB C:/Users/Owner/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.26-20.57.05:512][  0]LogInit: Texture streaming: Enabled
+[2016.10.26-20.57.05:541][  0]LogInit: Transaction tracking system initialized
+[2016.10.26-20.57.05:573][  0]BlueprintLog: New page: Editor Load
+[2016.10.26-20.57.05:652][  0]LocalizationService: Info Localization service is disabled
+[2016.10.26-20.57.05:732][  0]LogConsoleResponse:Display: 
+[2016.10.26-20.57.05:893][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.10.26-20.57.05:893][  0]LogCook:Display: Mobile HDR setting 1
+[2016.10.26-20.57.06:097][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/' took 0.02s
+[2016.10.26-20.57.06:097][  0]SourceControl: Info Source control is disabled
+[2016.10.26-20.57.06:177][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.26-20.57.37:138][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.26-20.57.37:154][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.26-20.57.37:155][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.26-20.57.37:166][  0]LightingResults: New page: Lighting Build
+[2016.10.26-20.57.37:172][  0]MapCheck: New page: Map Check
+[2016.10.26-20.57.37:172][  0]LightingResults: New page: Lighting Build
+[2016.10.26-20.57.37:947][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.10.26-20.57.37:992][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.26-20.57.37:993][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.26-20.57.38:049][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 56.053ms to complete.
+[2016.10.26-20.57.38:049][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.894
+[2016.10.26-20.57.38:162][  0]LogStats:Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_2340_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_174c_0///####STATCAT_Advanced####
+[2016.10.26-20.57.38:162][  0]LogCollectionManager: Loaded 0 collections in 0.002049 seconds
+[2016.10.26-20.57.38:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Collections/' took 0.01s
+[2016.10.26-20.57.38:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/Developers/Owner/Collections/' took 0.01s
+[2016.10.26-20.57.38:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/Collections/' took 0.01s
+[2016.10.26-20.57.38:213][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2016.10.26-20.57.38:224][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2141 classes and 415 folders.
+[2016.10.26-20.57.38:232][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.10.26-20.57.38:232][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.10.26-20.57.38:233][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 12 classes and 0 folders.
+[2016.10.26-20.57.38:239][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.10.26-20.57.38:571][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.10.26-20.57.38:582][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2016.10.26-20.57.38:636][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.10.26-20.57.38:647][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.10.26-20.57.38:677][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2016.10.26-20.57.38:677][  0]LogLoad: (Engine Initialization) Total time: 39.86 seconds
+[2016.10.26-20.57.38:677][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.06 seconds
+[2016.10.26-20.57.38:677][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.10.26-20.57.38:677][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.10.26-20.57.38:687][  0]LogOcInput: OculusInput pre-init called
+[2016.10.26-20.57.38:708][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.26-20.57.38:981][  0]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:2).
+[2016.10.26-20.57.40:243][  2]LogAssetRegistry: Asset discovery search completed in 37.0826 seconds
+[2016.10.26-20.57.40:243][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2016.10.26-20.57.40:243][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2016.10.26-20.57.57:998][352]LogAIModule: Creating AISystem for world Testing_Fire_Light_Sources
+[2016.10.26-20.57.58:045][352]Cmd: MAP LOAD FILE="../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/Testing_Fire_Light_Sources.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.26-20.57.58:046][352]LightingResults: New page: Lighting Build
+[2016.10.26-20.57.58:047][352]LoadErrors: New page: Loading map: Testing_Fire_Light_Sources.umap
+[2016.10.26-20.57.58:048][352]MapCheck: New page: Map Check
+[2016.10.26-20.57.58:048][352]LightingResults: New page: Lighting Build
+[2016.10.26-20.57.58:075][352]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.26-20.57.58:101][352]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.26-20.57.58:171][352]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 69.492ms to complete.
+[2016.10.26-20.57.58:171][352]LogFileHelpers: Loading map 'Testing_Fire_Light_Sources' took 0.127
+[2016.10.26-20.58.18:946][841]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: Testing_Fire_Light_Sources, Actor: /Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources_C_1
+[2016.10.26-20.58.18:992][841]LogAIModule: Creating AISystem for world Testing_Fire_Light_Sources
+[2016.10.26-20.58.19:028][841]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: Testing_Fire_Light_Sources, Actor: /Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources_C_0
+[2016.10.26-20.58.19:137][841]LogSavePackage: Save=111.50ms
+[2016.10.26-20.58.19:137][841]LogSavePackage: Moving '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Testing_Fire_Light_SourcesC7B10AB74B6851C4E7A77986834E83ED.tmp' to '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/Maps/Testing_Fire_Light_Sources.umap'
+[2016.10.26-20.58.19:141][841]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/Maps/Testing_Fire_Light_Sources.umap
+[2016.10.26-20.58.19:148][841]LogFileHelpers: Saving map 'Testing_Fire_Light_Sources' took 0.349
+[2016.10.26-20.58.19:149][841]Cmd: MAP LOAD FILE="../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/Maps/Testing_Fire_Light_Sources.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.26-20.58.19:156][841]LightingResults: New page: Lighting Build
+[2016.10.26-20.58.19:157][841]LoadErrors: New page: Loading map: Testing_Fire_Light_Sources.umap
+[2016.10.26-20.58.19:161][841]MapCheck: New page: Map Check
+[2016.10.26-20.58.19:161][841]LightingResults: New page: Lighting Build
+[2016.10.26-20.58.19:194][841]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.26-20.58.19:226][841]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.26-20.58.19:276][841]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 49.694ms to complete.
+[2016.10.26-20.58.19:276][841]LogFileHelpers: Loading map 'Testing_Fire_Light_Sources' took 0.128
+[2016.10.26-20.58.20:838][870]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-20.58.28:094][ 34]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (no light))
+[2016.10.26-20.58.54:766][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2016.10.26-21.00.13:190][239]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.00.29:054][643]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (no light))
+[2016.10.26-21.00.38:854][816]LogAIModule: Creating AISystem for world Testing_Fire_Light_Sources
+[2016.10.26-21.00.47:599][860]LogSavePackage: Save=102.55ms
+[2016.10.26-21.00.47:599][860]LogSavePackage: Moving '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Testing_Fire_Light_Sources0A32A52D450EE12ECC63DE926559A4E8.tmp' to '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/Maps/Testing_Fire_Light_Sources.umap'
+[2016.10.26-21.00.47:602][860]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/Maps/Testing_Fire_Light_Sources.umap
+[2016.10.26-21.00.47:639][860]LogFileHelpers: Saving map 'Testing_Fire_Light_Sources' took 0.220
+[2016.10.26-21.00.47:652][860]Cmd: MAP LOAD FILE="../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Content/Maps/Testing_Fire_Light_Sources.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.26-21.00.47:652][860]LightingResults: New page: Lighting Build
+[2016.10.26-21.00.47:653][860]LoadErrors: New page: Loading map: Testing_Fire_Light_Sources.umap
+[2016.10.26-21.00.47:654][860]MapCheck: New page: Map Check
+[2016.10.26-21.00.47:654][860]LightingResults: New page: Lighting Build
+[2016.10.26-21.00.47:692][860]LogAIModule: Creating AISystem for world Testing_Fire_Light_Sources
+[2016.10.26-21.00.47:695][860]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.26-21.00.47:720][860]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.26-21.00.47:765][860]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 45.382ms to complete.
+[2016.10.26-21.00.47:766][860]LogFileHelpers: Loading map 'Testing_Fire_Light_Sources' took 0.116
+[2016.10.26-21.00.49:829][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Testing Wall)
+[2016.10.26-21.00.51:325][920]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.01.43:449][991]LogContentStreaming: Texture pool size now 400 MB
+[2016.10.26-21.01.43:466][992]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:3694).
+[2016.10.26-21.01.45:431][120]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.01.50:561][352]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:3760).
+[2016.10.26-21.01.50:683][355]LogContentStreaming: Texture pool size now 600 MB
+[2016.10.26-21.01.51:204][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.01.57:183][645]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:3833).
+[2016.10.26-21.01.57:325][649]LogContentStreaming: Texture pool size now 800 MB
+[2016.10.26-21.01.58:139][702]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.02.05:148][837]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.02.25:373][422]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:4412).
+[2016.10.26-21.02.25:498][426]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.26-21.02.26:213][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.02.32:882][772]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:4462).
+[2016.10.26-21.02.33:005][776]LogContentStreaming: Texture pool size now 800 MB
+[2016.10.26-21.02.33:870][835]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.02.49:432][420]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:4648).
+[2016.10.26-21.02.49:433][420]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.26-21.02.50:233][468]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.03.43:062][449]LogContentStreaming: Texture pool size now 800 MB
+[2016.10.26-21.03.43:076][450]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:5465).
+[2016.10.26-21.03.44:016][509]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.03.50:040][624]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.04.24:839][826]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:6140).
+[2016.10.26-21.04.24:937][828]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.26-21.04.25:850][888]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.04.27:742][917]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.04.48:382][499]LogRenderer: Reallocating scene render targets to support 1004x456 (Frame:6462).
+[2016.10.26-21.04.48:459][500]LogContentStreaming: Texture pool size now 800 MB
+[2016.10.26-21.04.49:282][556]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.04.57:637][853]Cmd: STAT FPS
+[2016.10.26-21.05.04:406][271]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.05.23:085][619]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.05.43:500][ 46]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.05.47:364][119]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.05.54:673][270]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.05.57:917][332]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.06.19:160][782]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.06.20:901][814]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.07.02:096][794]LogRenderer: Reallocating scene render targets to support 1004x460 (Frame:9034).
+[2016.10.26-21.07.02:276][796]LogRenderer: Reallocating scene render targets to support 1004x468 (Frame:9038).
+[2016.10.26-21.07.02:387][797]LogRenderer: Reallocating scene render targets to support 1004x476 (Frame:9040).
+[2016.10.26-21.07.02:514][798]LogRenderer: Reallocating scene render targets to support 1004x484 (Frame:9042).
+[2016.10.26-21.07.02:625][799]LogRenderer: Reallocating scene render targets to support 1004x496 (Frame:9044).
+[2016.10.26-21.07.02:739][800]LogRenderer: Reallocating scene render targets to support 1004x516 (Frame:9046).
+[2016.10.26-21.07.02:849][801]LogRenderer: Reallocating scene render targets to support 1004x536 (Frame:9048).
+[2016.10.26-21.07.02:965][802]LogRenderer: Reallocating scene render targets to support 1004x552 (Frame:9050).
+[2016.10.26-21.07.03:088][803]LogRenderer: Reallocating scene render targets to support 1004x568 (Frame:9052).
+[2016.10.26-21.07.03:216][804]LogRenderer: Reallocating scene render targets to support 1004x612 (Frame:9054).
+[2016.10.26-21.07.03:340][805]LogRenderer: Reallocating scene render targets to support 1004x656 (Frame:9056).
+[2016.10.26-21.07.03:483][806]LogRenderer: Reallocating scene render targets to support 1004x688 (Frame:9058).
+[2016.10.26-21.07.03:621][807]LogRenderer: Reallocating scene render targets to support 1004x712 (Frame:9060).
+[2016.10.26-21.07.03:766][808]LogRenderer: Reallocating scene render targets to support 1004x716 (Frame:9062).
+[2016.10.26-21.07.31:507][418]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.07.34:488][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2016.10.26-21.07.42:423][606]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2016.10.26-21.08.28:801][177]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.26-21.08.28:814][178]LogRenderer: Reallocating scene render targets to support 1004x716 (Frame:10359).
+[2016.10.26-21.08.29:451][213]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.08.38:939][340]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2016.10.26-21.09.24:043][440]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.09.47:745][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Testing Wall)
+[2016.10.26-21.12.24:714][652]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.12.54:639][ 69]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2016.10.26-21.13.00:690][144]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2016.10.26-21.13.01:630][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pole (P_Fire))
+[2016.10.26-21.13.12:279][592]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2016.10.26-21.13.16:658][631]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.13.45:511][545]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (no light))
+[2016.10.26-21.14.08:323][986]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.10.26-21.14.32:916][323]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2016.10.26-21.14.34:816][347]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.15.37:670][243]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (no light))
+[2016.10.26-21.15.39:111][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.10.26-21.15.44:058][325]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.15.49:301][382]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.15.52:588][423]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.15.54:605][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pole (with light))
+[2016.10.26-21.16.13:547][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pole (P_Fire))
+[2016.10.26-21.16.26:035][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pole (no light))
+[2016.10.26-21.16.33:549][ 18]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2016.10.26-21.16.55:376][350]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.10.26-21.17.02:074][443]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.10.26-21.17.27:885][815]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.17.45:040][ 96]Cmd: TRANSACTION UNDO
+[2016.10.26-21.17.45:041][ 96]LogEditorTransaction: Undo Move Actors
+[2016.10.26-21.17.47:170][170]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.17.48:659][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.17.56:076][300]Cmd: TRANSACTION UNDO
+[2016.10.26-21.17.56:076][300]LogEditorTransaction: Undo Move Actors
+[2016.10.26-21.18.03:268][445]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2016.10.26-21.18.18:594][772]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.18.24:712][868]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.18.27:574][910]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2016.10.26-21.18.42:308][495]LogContentStreaming: Texture pool size now 800 MB
+[2016.10.26-21.18.42:321][496]LogRenderer: Reallocating scene render targets to support 1004x716 (Frame:19011).
+[2016.10.26-21.18.44:725][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.18.52:376][756]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.19.49:337][934]LogRenderer: Reallocating scene render targets to support 1004x716 (Frame:20161).
+[2016.10.26-21.19.49:482][937]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.26-21.19.50:548][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.19.52:216][ 15]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.21.34:346][785]LogSavePackage: Save=142.05ms
+[2016.10.26-21.21.34:346][785]LogSavePackage: Moving '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Testing_Fire_Light_Sources_Auto1F701E05843A18547FE3CADBC45CE3D43.tmp' to '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Autosaves/Game/Maps/Testing_Fire_Light_Sources_Auto1.umap'
+[2016.10.26-21.21.34:348][785]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Autosaves/Game/Maps/Testing_Fire_Light_Sources_Auto1.umap
+[2016.10.26-21.21.34:353][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Testing_Fire_Light_Sources' took 0.215
+[2016.10.26-21.21.34:353][785]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2016.10.26-21.25.29:358][ 43]LogRenderer: Reallocating scene render targets to support 1004x716 (Frame:25293).
+[2016.10.26-21.25.29:528][ 48]LogContentStreaming: Texture pool size now 800 MB
+[2016.10.26-21.25.30:577][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.25.36:407][279]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.25.39:711][333]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.28.06:549][ 64]Cmd: TRANSACTION UNDO
+[2016.10.26-21.28.06:550][ 64]LogEditorTransaction: Undo Move Components
+[2016.10.26-21.28.07:400][104]Cmd: TRANSACTION UNDO
+[2016.10.26-21.28.07:400][104]LogEditorTransaction: Undo Edit Cast Shadows
+[2016.10.26-21.28.08:105][124]Cmd: TRANSACTION UNDO
+[2016.10.26-21.28.08:105][124]LogEditorTransaction: Undo Edit Cast Shadows
+[2016.10.26-21.28.08:848][138]Cmd: TRANSACTION UNDO
+[2016.10.26-21.28.08:849][138]LogEditorTransaction: Undo Move Components
+[2016.10.26-21.28.09:282][146]Cmd: TRANSACTION UNDO
+[2016.10.26-21.28.09:282][146]LogEditorTransaction: Undo Edit Attenuation Radius
+[2016.10.26-21.28.12:274][200]Cmd: TRANSACTION UNDO
+[2016.10.26-21.28.12:275][200]LogEditorTransaction: Undo Edit Intensity
+[2016.10.26-21.28.19:169][422]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.26-21.28.19:187][423]LogRenderer: Reallocating scene render targets to support 1004x716 (Frame:28319).
+[2016.10.26-21.28.20:466][484]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2016.10.26-21.28.31:984][634]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (Fire (with light))
+[2016.10.26-21.28.45:733][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 112 classes and 0 folders.
+[2016.10.26-21.29.31:467][896]BlueprintLog: New page: Compile Blueprint_Effect_Fire
+[2016.10.26-21.29.38:417][ 52]BlueprintLog: New page: Compile Blueprint_Effect_Fire
+[2016.10.26-21.39.06:052][256]BlueprintLog: New page: Compile Blueprint_Effect_Fire
+[2016.10.26-21.39.06:068][256]LogBlueprint:Error: [Compiler Blueprint_Effect_Fire] Error Wrong class to spawn '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C' in  K2Node_GenericCreateObject_0
+[2016.10.26-21.39.06:068][256]LogBlueprint:Error: [Compiler Blueprint_Effect_Fire] Error Outer object is required in  K2Node_GenericCreateObject_0
+[2016.10.26-21.39.06:365][256]BlueprintEditorCompileResults:Error: Error Wrong class to spawn '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C' in  K2Node_GenericCreateObject_0
+[2016.10.26-21.39.06:365][256]BlueprintEditorCompileResults:Error: Error Outer object is required in  K2Node_GenericCreateObject_0
+[2016.10.26-21.39.06:366][256]LogBlueprint:Warning: [Compiler Blueprint_Effect_Fire] Warning [2527.55] Compile of Blueprint_Effect_Fire failed. 2 Fatal Issue(s) 0 Warning(s) [in 313 ms] (/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire)
+[2016.10.26-21.39.21:982][581]BlueprintLog: New page: Compile Blueprint_Effect_Fire
+[2016.10.26-21.39.41:903][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-21.39.41:903][867]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.10.26-21.39.41:903][867]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_Blueprint_0 before play...
+[2016.10.26-21.39.42:065][867]LogPlayLevel: PlayLevel: Blueprint regeneration took 162 ms (1 blueprints)
+[2016.10.26-21.39.42:067][867]PIE: New page: PIE session: Testing_Fire_Light_Sources (Oct 26, 2016, 12:39:42 PM)
+[2016.10.26-21.39.42:067][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources
+[2016.10.26-21.39.42:071][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003745s)
+[2016.10.26-21.39.42:071][867]LogAIModule: Creating AISystem for world Testing_Fire_Light_Sources
+[2016.10.26-21.39.42:072][867]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2016.10.26-21.39.42:072][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources to /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources.Testing_Fire_Light_Sources (0.004964s)
+[2016.10.26-21.39.42:104][867]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.26-21.39.42:119][867]LogInit: FAudioDevice initialized.
+[2016.10.26-21.39.42:178][867]LogWorld: Game class is 'GameMode'
+[2016.10.26-21.39.42:183][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources.Testing_Fire_Light_Sources up for play (max tick rate 0) at 2016.10.26-17.39.42
+[2016.10.26-21.39.42:183][867]LogWorld: Bringing up level for play took: 0.002830
+[2016.10.26-21.39.42:191][867]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2016.10.26-21.39.42:191][867]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-21.39.42:191][867]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-21.39.42:191][867]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-21.39.42:194][867]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-21.39.42:194][867]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources 0.089
+[2016.10.26-21.39.42:194][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-21.39.51:387][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-21.39.51:549][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-21.39.56:326][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-21.39.56:326][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.26-21.39.56:326][ 72]PIE: New page: PIE session: Testing_Fire_Light_Sources (Oct 26, 2016, 12:39:56 PM)
+[2016.10.26-21.39.56:326][ 72]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources
+[2016.10.26-21.39.56:337][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010689s)
+[2016.10.26-21.39.56:338][ 72]LogAIModule: Creating AISystem for world Testing_Fire_Light_Sources
+[2016.10.26-21.39.56:339][ 72]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2016.10.26-21.39.56:340][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources to /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources.Testing_Fire_Light_Sources (0.013352s)
+[2016.10.26-21.39.56:442][ 72]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.26-21.39.56:463][ 72]LogInit: FAudioDevice initialized.
+[2016.10.26-21.39.56:506][ 72]LogWorld: Game class is 'GameMode'
+[2016.10.26-21.39.56:511][ 72]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources.Testing_Fire_Light_Sources up for play (max tick rate 0) at 2016.10.26-17.39.56
+[2016.10.26-21.39.56:512][ 72]LogWorld: Bringing up level for play took: 0.005609
+[2016.10.26-21.39.56:513][ 72]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-21.39.56:513][ 72]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-21.39.56:514][ 72]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-21.39.56:515][ 72]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-21.39.56:515][ 72]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources 0.411
+[2016.10.26-21.39.56:515][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-21.39.58:860][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-21.39.59:003][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-21.41.25:288][ 44]LogSavePackage: Save=148.37ms
+[2016.10.26-21.41.25:289][ 44]LogSavePackage: Moving '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Testing_Fire_Light_Sources_Auto28CBD757F4F49B32443CB00BB27BB7A4C.tmp' to '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Autosaves/Game/Maps/Testing_Fire_Light_Sources_Auto2.umap'
+[2016.10.26-21.41.25:290][ 44]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Autosaves/Game/Maps/Testing_Fire_Light_Sources_Auto2.umap
+[2016.10.26-21.41.25:295][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Testing_Fire_Light_Sources' took 0.233
+[2016.10.26-21.41.25:296][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.233
+[2016.10.26-21.41.25:298][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Blueprints/Blueprint_Effect_Fire] ([1] browsable assets)...
+[2016.10.26-21.41.25:298][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Blueprint_Effect_Fire]
+[2016.10.26-21.41.25:324][ 44]LogSavePackage: Save=17.42ms
+[2016.10.26-21.41.25:324][ 44]LogSavePackage: Moving '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Blueprint_Effect_Fire_Auto258068F6B468B37C3CB8A9280FE096B05.tmp' to '../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Autosaves/Game/StarterContent/Blueprints/Blueprint_Effect_Fire_Auto2.uasset'
+[2016.10.26-21.41.25:326][ 44]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Owner/Desktop/GameDev1_Project3/Actual Game/Testing/Saved/Autosaves/Game/StarterContent/Blueprints/Blueprint_Effect_Fire_Auto2.uasset
+[2016.10.26-21.41.25:326][ 44]LogFileHelpers: Auto-saving content packages took 0.030
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: libcurl info message cache 1 (Connection 22 seems to be dead!)
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: libcurl info message cache 2 (Closing connection 22)
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: libcurl info message cache 3 (schannel: shutting down SSL/TLS connection with datarouter.ol.epicgames.com port 443)
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: libcurl info message cache 4 (Send failure: Connection was reset)
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: libcurl info message cache 5 (schannel: failed to send close msg: Failed sending data to the peer (bytes written: -1))
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: libcurl info message cache 6 (schannel: clear security context handle)
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: libcurl info message cache 7 (schannel: decremented credential handle refcount = 0)
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.10.26-21.59.00:786][674]LogHttp:Warning: 0000016ACAD73880: libcurl info message cache 9 (Closing connection 23)
+[2016.10.26-22.02.08:253][791]BlueprintLog: New page: Compile Blueprint_Effect_Fire
+[2016.10.26-22.02.11:955][833]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-22.02.11:955][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.26-22.02.11:956][833]PIE: New page: PIE session: Testing_Fire_Light_Sources (Oct 26, 2016, 1:02:11 PM)
+[2016.10.26-22.02.11:956][833]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources
+[2016.10.26-22.02.11:962][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006271s)
+[2016.10.26-22.02.11:963][833]LogAIModule: Creating AISystem for world Testing_Fire_Light_Sources
+[2016.10.26-22.02.11:964][833]LogPlayLevel: PIE: World Init took: (0.001558s)
+[2016.10.26-22.02.11:964][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources to /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources.Testing_Fire_Light_Sources (0.008220s)
+[2016.10.26-22.02.12:050][833]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.26-22.02.12:068][833]LogInit: FAudioDevice initialized.
+[2016.10.26-22.02.12:116][833]LogWorld: Game class is 'GameMode'
+[2016.10.26-22.02.12:124][833]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources.Testing_Fire_Light_Sources up for play (max tick rate 60) at 2016.10.26-18.02.12
+[2016.10.26-22.02.12:125][833]LogWorld: Bringing up level for play took: 0.006880
+[2016.10.26-22.02.12:126][833]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-22.02.12:126][833]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-22.02.12:126][833]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-22.02.12:129][833]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-22.02.12:129][833]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources 0.027
+[2016.10.26-22.02.12:129][833]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-22.02.18:478][923]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-22.02.18:595][923]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-22.02.23:634][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-22.02.23:634][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.26-22.02.23:634][984]PIE: New page: PIE session: Testing_Fire_Light_Sources (Oct 26, 2016, 1:02:23 PM)
+[2016.10.26-22.02.23:634][984]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources
+[2016.10.26-22.02.23:639][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005208s)
+[2016.10.26-22.02.23:642][984]LogAIModule: Creating AISystem for world Testing_Fire_Light_Sources
+[2016.10.26-22.02.23:642][984]LogPlayLevel: PIE: World Init took: (0.002469s)
+[2016.10.26-22.02.23:642][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources to /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources.Testing_Fire_Light_Sources (0.008176s)
+[2016.10.26-22.02.23:693][984]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.26-22.02.23:713][984]LogInit: FAudioDevice initialized.
+[2016.10.26-22.02.23:767][984]LogWorld: Game class is 'GameMode'
+[2016.10.26-22.02.23:773][984]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources.Testing_Fire_Light_Sources up for play (max tick rate 60) at 2016.10.26-18.02.23
+[2016.10.26-22.02.23:773][984]LogWorld: Bringing up level for play took: 0.004930
+[2016.10.26-22.02.23:775][984]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-22.02.23:775][984]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.26-22.02.23:775][984]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-22.02.23:776][984]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.26-22.02.23:776][984]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Testing_Fire_Light_Sources -0.325
+[2016.10.26-22.02.23:776][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-22.02.30:017][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-22.02.30:150][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources' with GeneratedClass '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources_C' with ClassGeneratedBy '/Game/Maps/Testing_Fire_Light_Sources.Testing_Fire_Light_Sources:PersistentLevel.Testing_Fire_Light_Sources'
+[2016.10.26-22.02.59:425][425]LogSavePackage: Save=157.18ms
+[2016.10.26-22.02.59:425][425]LogSavePackage: Moving '../../../../../../Users/Owner/Desktop
